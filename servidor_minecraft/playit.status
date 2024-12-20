@@ -1,32 +1,12 @@
 8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734734960612 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737632214 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734734963679 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734734966749 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734734969844 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734734972934 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734734976001 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737635291 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -34,32 +14,12 @@ under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734734991095 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737650446 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734734994155 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734734997213 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735000289 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735003359 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735006425 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737653511 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -67,87 +27,17 @@ under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734735021977 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737668641 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735025033 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737671699 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735028270 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735031353 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735034426 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735037497 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735040569 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735043652 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735046710 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735049798 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735052864 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735055927 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735058980 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735062092 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735065146 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735068210 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735071266 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737674755 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -155,37 +45,17 @@ under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734735086375 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737689859 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735089439 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737692942 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735092533 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735095595 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735098657 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735101720 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735104789 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737696030 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -193,22 +63,17 @@ under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734735119878 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737711143 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735122945 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737714204 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735125998 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735129056 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737717260 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -216,42 +81,12 @@ under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734735144150 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737732350 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735147234 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735150297 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735153378 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735156594 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735159654 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735162759 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735165819 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737735403 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -259,32 +94,12 @@ under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734735180912 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737750509 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735183977 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735187036 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735190091 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735193146 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735196207 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737753570 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -292,60 +107,17 @@ under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734735211297 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737768668 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735214361 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737771734 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735217436 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734735232532 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735235598 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735238658 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735241715 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735244778 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735247833 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735250902 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735253958 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737774801 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -353,32 +125,17 @@ under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734735269048 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737789896 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735272215 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737792958 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735275283 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735278343 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735281404 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735284554 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737796016 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -386,47 +143,79 @@ under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1734735299640 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737811168 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735302717 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737814224 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735305799 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1734737829315 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735308874 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737832384 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735311932 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737835451 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735314984 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1734737850566 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735318045 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737853637 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735321120 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734737856700 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734735324187 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1734737871781 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734737874840 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734737877899 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1734737892994 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+under-hungarian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734737896050 tunnel running, 1 tunnels registered
 
 
 TUNNELS
